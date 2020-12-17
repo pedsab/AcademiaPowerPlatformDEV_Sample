@@ -1,0 +1,11 @@
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\bin\Debug\Academia.PowerPlatform.dll
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\bin\Debug\Academia.PowerPlatform.pdb
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\obj\Debug\Academia.PowerPlatform.csproj.CoreCompileInputs.cache
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\obj\Debug\Academia.PowerPlatform.csproj.CopyComplete
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\obj\Debug\Academia.PowerPlatform.dll
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\obj\Debug\Academia.PowerPlatform.pdb
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform\obj\Debug\Academia.PowerPlatform.csprojAssemblyReference.cache

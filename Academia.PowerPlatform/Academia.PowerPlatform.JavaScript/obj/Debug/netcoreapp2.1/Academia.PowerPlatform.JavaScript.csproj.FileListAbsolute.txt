@@ -1,0 +1,14 @@
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\bin\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.deps.json
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\bin\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.runtimeconfig.json
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\bin\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.runtimeconfig.dev.json
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\bin\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.dll
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\bin\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.pdb
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.csprojAssemblyReference.cache
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.RazorAssemblyInfo.cache
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.RazorAssemblyInfo.cs
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.AssemblyInfoInputs.cache
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.AssemblyInfo.cs
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.RazorTargetAssemblyInfo.cache
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.dll
+C:\Users\PedroAgraSabino\source\repos\Academia.PowerPlatform\Academia.PowerPlatform.JavaScript\obj\Debug\netcoreapp2.1\Academia.PowerPlatform.JavaScript.pdb
